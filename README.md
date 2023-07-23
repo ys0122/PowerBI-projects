@@ -6,7 +6,7 @@ The hands-on project and real-world assignments allowed me to apply what I learn
 
 Here's an overview of the key stages covered in the course:
 
-#Stage 1: 
+## Stage 1: 
 Connecting & Shaping Data
 In this stage, I learned to build automated workflows using Power Query to extract, transform, and load project data. The course covered a range of topics, including data connectors, storage modes, table transformations, and more. I also explored techniques to extract data from web sources and performed data quality assurance using profiling tools.
 
